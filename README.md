@@ -44,6 +44,14 @@ Perfect for sharing with:
 - Your portfolio  
 
 ---
+## 📸 Screenshots
+
+### Repository Analytics
+![Repos by Year](repos_by_year.png)
+
+### Language Distribution
+![Language Distribution](language_distribution.png)
+---
 
 ## 🧠 Intended Users
 
