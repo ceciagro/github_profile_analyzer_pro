@@ -81,8 +81,9 @@ github_profile_analyzer/
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/github_profile_analyzer_pro.git
-cd github_profile_analyzer_pro
+
+git clone https://github.com/ceciagro/github_profile_analyzer_pro.git
+    cd github_profile_analyzer_pro
 
 
 # Create virtual environment (Mac/Linux)
@@ -115,5 +116,16 @@ All processed information is already publicly visible on GitHub and is handled i
 
 This tool does **not** store, redistribute, or modify any user data.  
 It simply visualizes and summarizes public profile statistics for analysis, recruitment, and educational purposes.
+
+---
+---
+
+## 📬 Contact & Author
+
+- **Author:** Cecilia Ledesma
+- **Email:** [cecledesma@gmail.com](mailto:cecledesma@gmail.com)
+- **GitHub:** [github.com/ceciagro](https://github.com/ceciagro)
+- **Upwork:** [Freelancer Profile](https://www.upwork.com/freelancers/cledesma)
+- **Specializations:** Deep Learning (LSTM), Time Series Forecasting, Financial Modeling, MLOps
 
 ---
